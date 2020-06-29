@@ -1,0 +1,32 @@
+{
+	"board1": {
+    "name": "Black Revolution",
+    "description": "Books that inspire black conciousness",
+    "imageUel":"https://psmag.com/.image/t_share/MTU4NjYwODA0NTY3MTE1MTg1/book-reviews-color-01.jpg",
+		"uid": "XDqI6GSwrOfutBSSc93k4sJ0KPi1"
+	},
+	"board2": {
+    "name": "Soundtrack to the Revolution",
+    "description": "Music for the Revolution",
+    "imageUel":"https://miro.medium.com/proxy/1*iQIPPT7QBwL_D0cPRaXeFQ.jpeg",
+		"uid": "annauid"
+	},
+	"board3": {
+		"name": "Podcast for the Revolution",
+    "description": "Podcast that inspire thought",
+    "imageUel":"https://i2.wp.com/balleralert.com/wp-content/uploads/2020/06/FD03F19C-7805-4ADC-8E04-23957FD84C59-scaled.jpeg?fit=2560%2C1695&ssl=1",
+		"uid": "XDqI6GSwrOfutBSSc93k4sJ0KPi1"
+  },
+  "board4": {
+		"name": "Black Painters",
+    "description": "A collection of Black Painters",
+    "imageUel":"https://i2.wp.com/coolhunting.com/wp-content/uploads/2014/09/KWHaiti-Thumb.jpg?fit=800%2C800&ssl=1",
+		"uid": "XDqI6GSwrOfutBSSc93k4sJ0KPi1"
+  },
+  "board5": {
+		"name": "Black Love ",
+    "description": "Examples of Black Love",
+    "imageUel":"https://i.pinimg.com/originals/b3/30/19/b33019680c4cc425b0d5e182e6cac2c8.jpg",
+		"uid": "kellyuid"
+	}
+}

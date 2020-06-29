@@ -1,8 +1,21 @@
 @import "~bootstrap/scss/bootstrap";
 @import "~@fortawesome/fontawesome-free/css/all.min.css";
+@import "./colors";
 
 body {
-  background-color: red;
+  background-color:$offwhite;
 }
 
 
+nav {
+  background-color: $offwhite;
+  border-bottom: solid $gray 2px;
+  color: $gray;
+  button {
+    background-color: $gray;
+  }
+}
+
+.hide {
+  display: none;
+}
