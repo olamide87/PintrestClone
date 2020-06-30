@@ -1,0 +1,32 @@
+{
+	"pin1": {
+    "name": "Electric Lady Land",
+    "imageUrl": "https://dyn1.heritagestatic.com/lf?set=path%5B1%2F4%2F1%2F1%2F9%2F14119977%5D&call=url%5Bfile%3Aproduct.chain%5D",
+		"boardId": "board2"
+  },
+  "pin2": {
+    "name": "The Color of Money",
+    "imageUrl": "https://prodimage.images-bn.com/pimages/9780674970953_p0_v1_s550x406.jpg",
+		"boardId": "board1"
+  },
+  "pin3": {
+    "name": "Many Thousands Gone: The First Two Centuries of Slavery in North America",
+    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347674189i/178481._UY400_SS400_.jpg",
+		"boardId": "board1"
+  },
+  "pin4": {
+    "name": "If Beale Street Could Talk",
+    "imageUrl": "https://static1.squarespace.com/static/59f0d14e8dd0413a850f248c/5c23f15c0e2e72a79441352a/5c76070d4e17b63b4313ca7a/1560223153421/bealest.0.jpg?format=1500w",
+		"boardId": "board5"
+  },
+  "pin5": {
+    "name": "Jearn-Michel-Basquiat",
+    "imageUrl": "https://blerds.atlantablackstar.com/wp-content/uploads/2015/07/004-jean-michel-basquiat-theredlist.jpg",
+		"boardId": "board4"
+  },
+  "pin6": {
+    "name": "Hella Black The Podcast",
+    "imageUrl": "https://purewows3.imgix.net/images/articles/2017_06/slide-1-keto-dinners.jpg?auto=format,compress&cs=strip",
+		"boardId": "board3"
+  }
+}
