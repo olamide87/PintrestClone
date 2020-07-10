@@ -15,9 +15,10 @@ const boardBuilder = () => {
       domString += '<div class="row wrap">';
       boards.forEach((b) => {
         domString += '<div class="col-4">';
-        domString += `  <div class="card board-card" id="${b.id}" label="${b.name}">`;
+        domString += `  <div class="card board-card" id="" label="${b.name}">`;
         domString += `    <h5 class="card-header">${b.name}</h5>`;
         domString += '    <div class="card-body">';
+        domString += `    <img src="${b.imageUel}" class="card-img-bottom" alt="...">`;
         domString += `      <p class="card-text">${b.description}</>`;
         domString += '    </div>';
         domString += '   </div>';
