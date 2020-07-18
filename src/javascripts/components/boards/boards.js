@@ -75,6 +75,7 @@ const boardBuilder = () => {
         domString += `  <div class="card board-card" id="${b.id}" label="${b.name}">`;
         domString += `    <h5 class="card-header">${b.name}</h5>`;
         domString += '    <div class="card-body">';
+        domString += `    <img src="${b.imageUrl}" class="card-img-top">`;
         domString += `      <p class="card-text">${b.description}</>`;
         domString += '    </div>';
         domString += '  </div>';
